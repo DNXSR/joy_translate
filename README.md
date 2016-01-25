@@ -1,1 +1,1 @@
-# joy_translate
+# Joystick translation ROS node for Donaxi
